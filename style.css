@@ -1,0 +1,10 @@
+body {
+  background-color: #eeeeee;
+  font-family: Montserrat;
+}
+
+.padding-li {
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+  color: black !important;
+}
